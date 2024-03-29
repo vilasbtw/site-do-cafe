@@ -11,4 +11,4 @@ Tecnologias: **HTML** e **CSS**
 
 ## 🌐  GitHub pages
 
- - Live
+ - [Live](https://vilasbtw.github.io/site-do-cafe/)
